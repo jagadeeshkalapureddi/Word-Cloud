@@ -1,0 +1,101 @@
+
+Why becoming a Data Scientist is NOT actually easier than you think
+I was just doing some late night reading and came across this article. TL;DR - You can take the ML course on Coursera and you're magically a Data Scientist, because three really intelligent people did it. I disagree...
+
+Data scientists need their own GitHub. Here are four of the best options
+Imagine if a company’s three highly valued data scientists can happily work together without duplicating each other’s efforts and can easily call up the ingredients and results of each other’s previous work. That day has come...
+
+Getting started in Data Science: My thoughts [Trey Causey]
+There's no denying that 'data scientist' is a hot job title to have right now, and for good reason. It's a tremendously fun and challenging field to be in, and despite all of the often undeserved hoopla that surrounds it, data scientists are doing some pretty amazing things. So it's no surprise that many people are clamoring to find out how to become data scientists. As I run a blog that attempts to teach some basic data science using sports analytics, I often get email asking how one gets started in data science and/or how quickly one can learn the prerequisites for being a data scientist. Instead of replying to these all the time, I thought I'd write my thoughts up here...
+
+Spark is on fire
+Spark is on the rise, to an even greater degree than I thought last month...
+
+Data Workflows for Machine Learning
+In this in-depth video, we compare/contrast several open source frameworks which have emerged for Machine Learning workflows, including KNIME, IPython Notebook and related Py libraries, Cascading, Cascalog, Scalding, Summingbird, Spark/MLbase, MBrace on .NET, etc. ...
+
+Elusive Data Scientists Driving High Salaries
+Data scientists, the elusive kingpins in the Big Data movement, are earning base salaries of well over $200K, are younger, overwhelmingly male, have at least a master’s degree and probably a Ph.D., and one in three are foreign born, according to the first-ever study looking at salaries, education levels, gender and geographical location of this new profession...
+
+Deep Learning - How & Why Deep Learning Methods Work
+The recent resurrection of multi-layer neural networks is generating a lot of interest currently, with deep learning appearing on the New York Times front page, and big companies like Google and Facebook hunting for the experts in this field. Jürgen’s talk sheds more light on how deep learning methods work, and why they work...
+
+Why The R Programming Language Is Good For Business
+Thanks to one company, the same code that is revolutionizing the scientific community is now moving up the ranks of the business world...
+
+What is the Difference Between Artificial Intelligence, Machine Learning, Statistics, and Data Mining
+I assume the author of that question is trying to get a clear picture by understanding the line of separation that distinguish each field from the other. So here is my take to explain it in a more simplified way that I ever could do...
+
+META: What Data Scientists are reading. And why.
+We recently posted an analysis of the most-read articles on this newsletter for the past two quarters. We were curious to understand what was getting the most clicks and if there were any consistent areas of interest...
+
+
+Sign up to receive the Data Science Weekly Newsletter every Thursday
+E-mail Address
+Easy to unsubscribe. No spam — we keep your email safe and do not share it.
+
+Q1 2014
+Machine Learning in 10 pictures
+I find myself coming back to the same few pictures when explaining basic machine learning concepts. Below is a list I find most illuminating...
+
+The $30/hr Data Scientist
+Yesterday a journalist asked me to comment on Vincent Granville's post about the $30/hr data scientist for hire on Elance. What started as a quick reply in an email, spiraled a bit, so I figured I'd post the entire reply here to get your thoughts in the comments...
+
+"How do I become a Data Scientist?"
+I got an email recently asking something along these lines: "I'm a smart ex-engineer who likes stats. I want to be a data scientist. How difficult will it be for me to find a job doing data science work at a startup?". I sent back an email which looked more or less like the following post...
+
+10 surprising Machine Learning applications
+You may have heard that today's tech companies are using machine learning to identify and filter email spam (Google), blacklist and penalize spam blogs so that users get good search results (also Google), recommend products specifically for you (Amazon), and fight fraud (IBM). Today's post isn't about that. It's about the new, perhaps surprising ways that companies (and non-profits) are using machine learning to make smarter, faster, better products...
+
+How I made $500k with Machine Learning and High Frequency Trading
+This post will detail what I did to make approx. 500k from high frequency trading from 2009 to 2010. Since I was trading completely independently and am no longer running my program I’m happy to tell all. My trading was mostly in Russel 2000 and DAX futures contracts...
+
+A non-comprehensive list of awesome things other people did this year
+I made this list off the top of my head and have surely missed awesome things people have done this year... I wrote this post because a blog often feels like a place to complain, but we started Simply Stats as a place to be pumped up about the stuff people were doing with data...
+
+How to Speed up a Python Program 114,000 times
+Optimizations are one thing -- making a serious data collection program run 114,000 times faster is another thing entirely. Leaning on 30+ years of programming experience, David Schachter goes over all the optimizations he made to his (secret) company's data-collecting program to get such massive performance gains. In doing so, he might be able to teach you a thing or two about optimizing a python program...
+
+Flappy Bird hack using Reinforcement Learning
+This is a hack for the popular game, Flappy Bird. After playing the game a few times, I saw the opportunity to practice my machine learning skills and try and get Flappy Bird to learn how to play the game by itself...
+
+Is Julia the Future for Big Data Analytics?
+In many Big Data blogs, meetups and in the halls of the most recent O’Reilly Strata Conference, one of the most-discussed topics is which language is better for data analysis: Python or R. Some of the talk has even reached “religious” overtones not unlike previous discussions on Windows vs. Linux or Microsoft’s Internet Explorer vs. Mozilla Firefox. So what’s the issue here?...
+
+Difference between Data Scientist and Data Analyst
+Jobs related to Data Science have topped the charts in job portals. There are job openings for various job titles like Data Scientists, Data Analysts, and Data Engineers. Though all these job titles deal with data and sound similar, they do have a number of detailed differences. Ever wondered how different they are from each other? I did! And here are the differences I found between a Data Scientist and a Data Analyst...
+
+Sign up to receive the Data Science Weekly Newsletter every Thursday
+E-mail Address
+Easy to unsubscribe. No spam — we keep your email safe and do not share it.
+
+Q4 2013
+How Python became the language of choice for Data Science
+Nowadays Python is probably the programming language of choice (besides R) for data scientists for prototyping, visualization, and running data analyses on small and medium sized data sets. And rightly so, I think, given the large number of available tools. However, it wasn’t always like this...
+
+Stanford algorithm analyzes sentence sentiment, advances Machine Learning
+The program, dubbed NaSent – short for Neural Analysis of Sentiment – is a new development in a field of computer science known as “Deep Learning” that aims to give computers the ability to acquire new understandings in a more human-like way...
+
+How to find the bars that women love
+Jetpac City Guides tells you all about the best places in every city to hit, based on analyzing millions of Instagram photos. It uses some pretty cool big data technology to look at the photos, understand what's going on in them (are people smiling? what are they wearing?) and match them to their GPS locations...
+
+Scryer: Netflix's Predictive Auto Scaling Engine - Part 2
+In Part 1 of this series, we introduced Scryer, Netflix’s predictive autoscaling engine, and discussed its use cases and how it runs in Netflix. In this second installment, we will discuss the design of Scryer ranging from the technical implementation to the algorithms that drive its predictions...
+
+You might be a Data Scientist if
+As I meet up-and-coming data scientists, I've realized that we share a surprising number of very specific experiences. Here's a list of things of these data science rites of passage, in no particular order...
+
+This Data Scientist spent a year deep inside The New York Times. Here’s what he discovered
+Brian Abelson spent the last year at The Times using data and analytics to understand Times content. Abelson had access to one of the most coveted datasets in publishing, The New York Times’ web and social traffic...we talk to Abelson about his year at The Times, as he attempted to create a better set of metrics focused on measurements of human response to media, like impact and behavioral change...
+
+Uber's Data Scientist on the importance of knowing one thing about everybody
+Data scientist Bradley Voytek recently spoke about his work at car service Uber. He explained how user information with location and temporal data could be analyzed to find unexpected and useful correlations...
+
+What I learnt from 2 years of 'Data Sciencing'
+Last week was my last day at uSwitch.com. From becoming aware of data scientist as a valid job title on my job offer letter, to speaking at Strata London, to signing a book deal to write about it in our book on Web Data Mining (that's progressing at a glacial pace), I figured that I should jot down some takeaway lessons while this experience is still fresh...
+
+New to Data Science
+Get started on the path toward becoming a data science practitioner with this helpful list of resources...
+
+Online Learning Curriculum for Data Scientists
+“Is there any online reading or courses I can do to get into data analysis?”... I get asked this question a lot in the workplace. In this post I propose a learning path to “get into data analysis”...
